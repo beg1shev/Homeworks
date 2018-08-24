@@ -1,0 +1,25 @@
+    1  whoami
+    2  hostname
+    3  man whoami
+    4  man man
+    5  less
+    6  man -h | head
+    7  man -h
+    8  man --help | tail
+    9  ls > list.txt
+   10  head -n 3 < file.txt
+   11  head -n 3 < list.txt
+   12  pwd
+   13  mkdir danis
+   14  pwd
+   15  cd ~
+   16  pwd
+   17  rm list.txt
+   18  ls
+   19  gedit list.txt
+   20  gedit &
+   21  mkdir ~/week1
+   22  cd ~/week1
+   23  ls /usr/bin | sort -r | grep gcc > ex1.txt 
+   24  gedit ex1.txt
+   25  history > ex2.txt
